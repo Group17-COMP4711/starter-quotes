@@ -5,7 +5,8 @@
 
 change log (newest last)
 
-* author's quote added
-
 * added a trump pic by Lei
 
+* author's quote added
+
+* added a random method in welcome controller
